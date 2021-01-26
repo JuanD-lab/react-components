@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: wrap;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  margin: 10px;
+}
+
+.profile {
+  background-color: #ec4646;
+}
+
+.interests {
+  background-color: #663f3f;
+}
+
+.learn {
+  background-color: #51c2d5;
+}
+
+.expectations {
+  background-color: #bbf1fa;
+}
